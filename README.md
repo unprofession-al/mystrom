@@ -1,4 +1,4 @@
-# mystrom
+# mystrom [![GoDoc](https://godoc.org/github.com/unprofession-al/mystrom?status.png)](http://godoc.org/github.com/unprofession-al/mystrom)
 
 `mystrom` provides a simple interface to interact with your myStrom devices 
 (https://mystrom.ch). Currently, only the myStrom WiFi Switch is supported.
